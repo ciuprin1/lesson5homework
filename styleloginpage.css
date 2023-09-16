@@ -1,0 +1,43 @@
+.container {
+  width: 350px;
+  border: 1px solid gray;
+  border-radius: 6px;
+  margin: 16px auto;
+  display: flex;
+  flex-direction: column;
+  padding: 32px;
+}
+
+.titlu {
+  text-align: center;
+}
+
+.lable {
+  margin: 8px 16px;
+}
+
+.userInput {
+  margin-left: 16px;
+  width: 150px;
+  height: 24px;
+  padding: 8px 16px;
+  border: none;
+  border-bottom: 1px solid black;
+}
+
+.submmitButton {
+  margin: 16px;
+  width: 150px;
+  height: 40px;
+  border-radius: 4px;
+  background-color: #1f883d;
+}
+
+.p1 {
+  margin: auto;
+  padding: 8px;
+}
+.divCentre {
+  display: flex;
+  justify-content: center;
+}
