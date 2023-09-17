@@ -41,3 +41,7 @@
   display: flex;
   justify-content: center;
 }
+
+.userInput:focus {
+  outline: none;
+}
